@@ -1,0 +1,12 @@
+.content-lienhe {
+  padding-top: 150px;
+}
+.form-control:focus {
+  box-shadow: none !important;
+  border: 1px solid #ffb3cc !important;
+}
+
+.img-background {
+  background-image: url(../img/lienhe/cloud-bg.png);
+  background-color: rgb(214, 233, 255);
+}

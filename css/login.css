@@ -1,0 +1,31 @@
+.content-from {
+  padding-top: 188px;
+}
+.panel-heading a {
+  color: black;
+  font-weight: 500;
+}
+.panel-login {
+  font-size: 16px;
+}
+#login-submit,
+#register-submit {
+  background: #ff4081;
+  outline: none;
+  color: white;
+}
+.panel-heading a:focus {
+  color: white;
+}
+label {
+  font-weight: 400 !important;
+}
+.img-background {
+  background-image: url(../img/lienhe/cloud-bg.png);
+  background-color: rgb(214, 233, 255);
+}
+@media (max-width: 768px) {
+  .row-from {
+    justify-content: center;
+  }
+}
